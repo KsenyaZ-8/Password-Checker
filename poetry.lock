@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "A full-featured console (xterm et al.) user interface library"
+name = "urwid"
+optional = false
+python-versions = "*"
+version = "2.1.2"
+
+[metadata]
+content-hash = "a27bcf2e594f867eb95ec0062a49b5819726f5c321ebefb9209bd5359c3cdee3"
+python-versions = "^3.8"
+
+[metadata.files]
+urwid = [
+    {file = "urwid-2.1.2.tar.gz", hash = "sha256:588bee9c1cb208d0906a9f73c613d2bd32c3ed3702012f51efe318a3f2127eae"},
+]
